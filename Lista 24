@@ -1,96 +1,171 @@
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Accion" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 | Cine Accion
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineAccion"
+tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b 6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png"
+group-title="CANALES24/7",24/7|CineAccion
 http://magmas5.com:8000/malotv/gratis/2544
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Accion HD" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 | Cine Accion HD
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineAccionHD"
+tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b 6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png"
+group-title="CANALES24/7",24/7|CineAccionHD
 http://magmas5.com:8000/malotv/gratis/2545
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Accion 3" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 |Cine Accion 3
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineAccion3"
+tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b 6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png"
+group-title="CANALES24/7",24/7|CineAccion3
 http://magmas5.com:8000/malotv/gratis/2546
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CSI: Miami HD" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 | CSI: Miami HD
+#EXTINF:-1tvg-id=""tvg-name="24/7|CSI:MiamiHD"
+tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b 6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png"
+group-title="CANALES24/7",24/7|CSI:MiamiHD
 http://magmas5.com:8000/malotv/gratis/2547
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Comedia 1" tvg-logo="https://www.pngitem.com/pimgs/m/79-791003_comedy-and-tragedy-comedia-y-tragedia-hd-png.png" group-title="CANALES 24/7",24/7 |Cine Comedia 1
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineComedia1"
+tvg-logo="https://www.pngitem.com/pimgs/m/79-791003_comedy-and-tragedy-comedia-y-tra gedia-hd-png.png"group-title="CANALES24/7",24/7|CineComedia1
 http://magmas5.com:8000/malotv/gratis/2548
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mi Bella Genio SD" tvg-logo="https://www.pngitem.com/pimgs/m/79-791003_comedy-and-tragedy-comedia-y-tragedia-hd-png.png" group-title="CANALES 24/7",24/7 | Mi Bella Genio SD
+#EXTINF:-1tvg-id=""tvg-name="24/7|MiBellaGenioSD"
+tvg-logo="https://www.pngitem.com/pimgs/m/79-791003_comedy-and-tragedy-comedia-y-tra gedia-hd-png.png"group-title="CANALES24/7",24/7|MiBellaGenioSD
 http://magmas5.com:8000/malotv/gratis/2549
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Ficcion/Fantasia 1" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia 1
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineFiccion/Fantasia1"
+tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b 6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png"
+group-title="CANALES24/7",24/7|CineFiccion/Fantasia1
 http://magmas5.com:8000/malotv/gratis/2550
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Tres veces Ana " tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 | Tres veces Ana 
+#EXTINF:-1tvg-id=""tvg-name="24/7|TresvecesAna"
+tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b 6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png"
+group-title="CANALES24/7",24/7|TresvecesAna
 http://magmas5.com:8000/malotv/gratis/2551
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Clásicos HD" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 |Cine Clásicos HD
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineClásicosHD"
+tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b 6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png"
+group-title="CANALES24/7",24/7|CineClásicosHD
 http://magmas5.com:8000/malotv/gratis/2552
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Ficcion/Fantasia Sagas" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia Sagas
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineFiccion/FantasiaSagas"
+tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b 6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png"
+group-title="CANALES24/7",24/7|CineFiccion/FantasiaSagas
 http://magmas5.com:8000/malotv/gratis/2553
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Infantil" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES 24/7",24/7 | Cine Infantil
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineInfantil"
+tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download .png"group-title="CANALES24/7",24/7|CineInfantil
 http://magmas5.com:8000/malotv/gratis/2554
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CINE Retro HD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES 24/7",24/7 | CINE Retro HD
+#EXTINF:-1tvg-id=""tvg-name="24/7|CINERetroHD"
+tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download .png"group-title="CANALES24/7",24/7|CINERetroHD
 http://magmas5.com:8000/malotv/gratis/2555
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine KIDS FHD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES 24/7",24/7 | Cine KIDS FHD
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineKIDSFHD"
+tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download .png"group-title="CANALES24/7",24/7|CineKIDSFHD
 http://magmas5.com:8000/malotv/gratis/2556
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | PBS KIDS FHD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES 24/7",24/7 | PBS KIDS FHD
+#EXTINF:-1tvg-id=""tvg-name="24/7|PBSKIDSFHD"
+tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download .png"group-title="CANALES24/7",24/7|PBSKIDSFHD
 http://magmas5.com:8000/malotv/gratis/2557
-#EXTINF:-1 tvg-id="" tvg-name="24/7  | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CANALES 24/7",24/7  | Cine Latino
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineLatino"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png"
+group-title="CANALES24/7",24/7|CineLatino
 http://magmas5.com:8000/malotv/gratis/2558
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  MY TIME MOVIE LATINO UHD" tvg-logo="https://www.kindpng.com/picc/m/8-80623_transparent-movies-logo-png-movies-logo-transparent-png.png" group-title="CANALES 24/7",24/7 |  MY TIME MOVIE LATINO UHD
-http://magmas5.com:8000/malotv/gratis/2559
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | MEGAMAN SERIE COMPLETA SD" tvg-logo="https://freepngimg.com/thumb/graphic_design/86838-studios-area-universe-cinematic-walt-text-disney.png" group-title="CANALES 24/7",24/7 | MEGAMAN SERIE COMPLETA SD
+#EXTINF:-1tvg-id=""tvg-name="24/7|MYTIMEMOVIELATINOUHD"
+tvg-logo="https://www.kindpng.com/picc/m/8-80623_transparent-movies-logo-png-movies-lo go-transparent-png.png"group-title="CANALES24/7",24/7|MYTIMEMOVIELATINOUHD http://magmas5.com:8000/malotv/gratis/2559
+#EXTINF:-1tvg-id=""tvg-name="24/7|MEGAMANSERIECOMPLETASD"
+tvg-logo="https://freepngimg.com/thumb/graphic_design/86838-studios-area-universe-cinem atic-walt-text-disney.png"group-title="CANALES24/7",24/7|MEGAMANSERIE
+COMPLETASD
 http://magmas5.com:8000/malotv/gratis/2560
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Romance" tvg-logo="https://i.dlpng.com/static/png/6866470_preview.png" group-title="CANALES 24/7",24/7 | Cine Romance
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineRomance"
+tvg-logo="https://i.dlpng.com/static/png/6866470_preview.png"group-title="CANALES
+24/7",24/7|CineRomance
 http://magmas5.com:8000/malotv/gratis/2561
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Romance HD" tvg-logo="https://i.dlpng.com/static/png/6866470_preview.png" group-title="CANALES 24/7",24/7 |Cine Romance HD
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineRomanceHD"
+tvg-logo="https://i.dlpng.com/static/png/6866470_preview.png"group-title="CANALES
+24/7",24/7|CineRomanceHD
 http://magmas5.com:8000/malotv/gratis/2562
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE BIG BANG THEORY" tvg-logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png" group-title="CANALES 24/7",24/7 | THE BIG BANG THEORY
+#EXTINF:-1tvg-id=""tvg-name="24/7|THEBIGBANGTHEORY"
+tvg-logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png"
+group-title="CANALES24/7",24/7|THEBIGBANGTHEORY
 http://magmas5.com:8000/malotv/gratis/2563
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Terror HD" tvg-logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png" group-title="CANALES 24/7",24/7 | Cine Terror HD
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineTerrorHD"
+tvg-logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png"
+group-title="CANALES24/7",24/7|CineTerrorHD
 http://magmas5.com:8000/malotv/gratis/2564
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Clásico HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dawn_Of_The_Dead_logo.png/1200px-Dawn_Of_The_Dead_logo.png" group-title="CANALES 24/7",24/7 | Cine Clásico HD
+#EXTINF:-1tvg-id=""tvg-name="24/7|CineClásicoHD"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dawn_Of_The_Dead
+_logo.png/1200px-Dawn_Of_The_Dead_logo.png"group-title="CANALES24/7",24/7|Cine ClásicoHD
 http://magmas5.com:8000/malotv/gratis/2565
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Batman La serie animada" tvg-logo="https://batman-on-film.com/wp-content/uploads/2018/03/batman-the-animated-series.png" group-title="CANALES 24/7",24/7 |  Batman La serie animada
+#EXTINF:-1tvg-id=""tvg-name="24/7|BatmanLaserieanimada"
+tvg-logo="https://batman-on-film.com/wp-content/uploads/2018/03/batman-the-animated-seri es.png"group-title="CANALES24/7",24/7|BatmanLaserieanimada
 http://magmas5.com:8000/malotv/gratis/3361
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  BREAKING BAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/1200px-Breaking_Bad_logo.svg.png" group-title="CANALES 24/7",24/7 |  BREAKING BAD
+#EXTINF:-1tvg-id=""tvg-name="24/7|BREAKINGBAD"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.s vg/1200px-Breaking_Bad_logo.svg.png"group-title="CANALES24/7",24/7|BREAKING
+BAD
 http://magmas5.com:8000/malotv/gratis/3364
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Two and Hald Men" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Two-and-a-half-men.svg/1280px-Two-and-a-half-men.svg.png" group-title="CANALES 24/7",24/7 |  Two and Hald Men
+#EXTINF:-1tvg-id=""tvg-name="24/7|TwoandHaldMen"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Two-and-a-half-men.s vg/1280px-Two-and-a-half-men.svg.png"group-title="CANALES24/7",24/7|TwoandHald Men
 http://magmas5.com:8000/malotv/gratis/3378
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Scooby-Doo HD" tvg-logo="https://www.pngitem.com/pimgs/m/18-184162_scooby-doo-logo-scooby-doo-logo-png-transparent.png" group-title="CANALES 24/7",24/7 |  Scooby-Doo HD
+#EXTINF:-1tvg-id=""tvg-name="24/7|Scooby-DooHD"
+tvg-logo="https://www.pngitem.com/pimgs/m/18-184162_scooby-doo-logo-scooby-doo-logopng-transparent.png"group-title="CANALES24/7",24/7|Scooby-DooHD
 http://magmas5.com:8000/malotv/gratis/3385
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Rick and Morty" tvg-logo="https://assets.stickpng.com/images/58f37720a4fa116215a9240f.png" group-title="CANALES 24/7",24/7 |  Rick and Morty
+#EXTINF:-1tvg-id=""tvg-name="24/7|RickandMorty"
+tvg-logo="https://assets.stickpng.com/images/58f37720a4fa116215a9240f.png"
+group-title="CANALES24/7",24/7|RickandMorty
 http://magmas5.com:8000/malotv/gratis/3386
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Mr. Bean Animado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mr._Bean_%28animated_TV_series%29_logo.svg/1280px-Mr._Bean_%28animated_TV_series%29_logo.svg.png" group-title="CANALES 24/7",24/7 |  Mr. Bean Animado
+#EXTINF:-1tvg-id=""tvg-name="24/7|Mr.BeanAnimado"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mr._Bean_%28anima ted_TV_series%29_logo.svg/1280px-Mr._Bean_%28animated_TV_series%29_logo.svg.png "group-title="CANALES24/7",24/7|Mr.BeanAnimado
 http://magmas5.com:8000/malotv/gratis/3391
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Los caballeros del Zodiaco" tvg-logo="https://i.pinimg.com/originals/f6/97/fa/f697fae688079889cdebc12ef9fa3fc3.png" group-title="CANALES 24/7",24/7 |  Los caballeros del Zodiaco
+#EXTINF:-1tvg-id=""tvg-name="24/7|LoscaballerosdelZodiaco"
+tvg-logo="https://i.pinimg.com/originals/f6/97/fa/f697fae688079889cdebc12ef9fa3fc3.png"
+group-title="CANALES24/7",24/7|LoscaballerosdelZodiaco
 http://magmas5.com:8000/malotv/gratis/3397
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Family Guy" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/family-guy-1-logo-png-transparent.png" group-title="CANALES 24/7",24/7 |  Family Guy
+#EXTINF:-1tvg-id=""tvg-name="24/7|FamilyGuy"
+tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/family-guy-1-logo-png-transparent.pn g"group-title="CANALES24/7",24/7|FamilyGuy
 http://magmas5.com:8000/malotv/gratis/3406
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons" tvg-logo="https://designlogovector.com/wp-content/uploads/2020/04/The-Simpsons-designlogovectorcom.png" group-title="CANALES 24/7",24/7 | Los Simpsons
+#EXTINF:-1tvg-id=""tvg-name="24/7|LosSimpsons"
+tvg-logo="https://designlogovector.com/wp-content/uploads/2020/04/The-Simpsons-designlo govectorcom.png"group-title="CANALES24/7",24/7|LosSimpsons
 http://magmas5.com:8000/malotv/gratis/129313
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dinosaurios" tvg-logo="https://freepngimg.com/download/jurassic_park/35156-2-jurassic-park-file.png" group-title="CANALES 24/7",24/7 | Dinosaurios
+#EXTINF:-1tvg-id=""tvg-name="24/7|Dinosaurios"
+tvg-logo="https://freepngimg.com/download/jurassic_park/35156-2-jurassic-park-file.png"
+group-title="CANALES24/7",24/7|Dinosaurios
 http://magmas5.com:8000/malotv/gratis/129314
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL 8*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png" group-title="CANALES 24/7",24/7 | EL CHAVO DEL 8*
+#EXTINF:-1tvg-id=""tvg-name="24/7|ELCHAVODEL8*"
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png"group-title="CANALES24/7",24/7|EL
+CHAVODEL8*
 http://magmas5.com:8000/malotv/gratis/129315
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El príncipe de Bel-Air" tvg-logo="https://www.kindpng.com/picc/m/245-2455965_fresh-prince-of-bel-air-itunes-hd-png.png" group-title="CANALES 24/7",24/7 | El príncipe de Bel-Air
+#EXTINF:-1tvg-id=""tvg-name="24/7|ElpríncipedeBel-Air"
+tvg-logo="https://www.kindpng.com/picc/m/245-2455965_fresh-prince-of-bel-air-itunes-hd-pn g.png"group-title="CANALES24/7",24/7|ElpríncipedeBel-Air
 http://magmas5.com:8000/malotv/gratis/129317
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="https://fanart.tv/fanart/tv/75897/clearart/SouthPark-75897-2.png" group-title="CANALES 24/7",24/7 | South Park
+#EXTINF:-1tvg-id=""tvg-name="24/7|SouthPark"
+tvg-logo="https://fanart.tv/fanart/tv/75897/clearart/SouthPark-75897-2.png"
+group-title="CANALES24/7",24/7|SouthPark
 http://magmas5.com:8000/malotv/gratis/129318
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Súper Campeones" tvg-logo="https://img.peru21.pe/files/ec_article_multimedia_gallery/uploads/2019/02/27/5c77416c6e865.png" group-title="CANALES 24/7",24/7 | Súper Campeones
+#EXTINF:-1tvg-id=""tvg-name="24/7|SúperCampeones"
+tvg-logo="https://img.peru21.pe/files/ec_article_multimedia_gallery/uploads/2019/02/27/5c77 416c6e865.png"group-title="CANALES24/7",24/7|SúperCampeones
 http://magmas5.com:8000/malotv/gratis/129319
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="https://k60.kn3.net/taringa/4/E/C/A/6/9/JonBizar/B1C.png" group-title="CANALES 24/7",24/7 | Cantinflas
+#EXTINF:-1tvg-id=""tvg-name="24/7|Cantinflas"
+tvg-logo="https://k60.kn3.net/taringa/4/E/C/A/6/9/JonBizar/B1C.png"group-title="CANALES
+24/7",24/7|Cantinflas
 http://magmas5.com:8000/malotv/gratis/129320
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://fanart.tv/fanart/tv/78020/hdclearart/alf-5835b6ec28f6e.png" group-title="CANALES 24/7",24/7 | ALF
+#EXTINF:-1tvg-id=""tvg-name="24/7|ALF"
+tvg-logo="https://fanart.tv/fanart/tv/78020/hdclearart/alf-5835b6ec28f6e.png"
+group-title="CANALES24/7",24/7|ALF
 http://magmas5.com:8000/malotv/gratis/129321
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="CANALES 24/7",24/7 | Chespirito SD
+#EXTINF:-1tvg-id=""tvg-name="24/7|ChespiritoSD"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%AD n_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png"
+group-title="CANALES24/7",24/7|ChespiritoSD
 http://magmas5.com:8000/malotv/gratis/129322
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO SHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="CANALES 24/7",24/7 | EL CHAPULÍN COLORADO SHOW
+#EXTINF:-1tvg-id=""tvg-name="24/7|ELCHAPULÍNCOLORADOSHOW"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%AD n_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png"
+group-title="CANALES24/7",24/7|ELCHAPULÍNCOLORADOSHOW
 http://magmas5.com:8000/malotv/gratis/129323
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokémon" tvg-logo="https://www.kindpng.com/picc/m/2-24125_pokemon-logo-transparent-hd-png-download.png" group-title="CANALES 24/7",24/7 | Pokémon
+#EXTINF:-1tvg-id=""tvg-name="24/7|Pokémon"
+tvg-logo="https://www.kindpng.com/picc/m/2-24125_pokemon-logo-transparent-hd-png-dow nload.png"group-title="CANALES24/7",24/7|Pokémon
 http://magmas5.com:8000/malotv/gratis/129325
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png" group-title="CANALES 24/7",24/7 | Dragon Ball Super
+#EXTINF:-1tvg-id=""tvg-name="24/7|DragonBallSuper"
+tvg-logo="https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victo rmontecinos-daxn5se.png"group-title="CANALES24/7",24/7|DragonBallSuper
 http://magmas5.com:8000/malotv/gratis/129326
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Tom and Jerry" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Tom_and_Jerry_2021.jpg" group-title="CANALES 24/7",24/7 | Tom and Jerry
+#EXTINF:-1tvg-id=""tvg-name="24/7|TomandJerry"
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Tom_and_Jerry_2021.jpg"group-title="CANALES24/7",24/7|TomandJerry
 http://magmas5.com:8000/malotv/gratis/129327
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="CANALES 24/7",Dragon Ball
+#EXTINF:-1tvg-id=""tvg-name="DragonBall"
+tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_anivers ario_by_facudibuja-da3jjej.png"group-title="CANALES24/7",DragonBall
 http://magmas5.com:8000/malotv/gratis/129328
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="CANALES 24/7",Dragon Ball Z
+#EXTINF:-1tvg-id=""tvg-name="DragonBallZ"
+tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_anivers ario_by_facudibuja-da3jjej.png"group-title="CANALES24/7",DragonBallZ
 http://magmas5.com:8000/malotv/gratis/129329
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Game of Thrones HD" tvg-logo="https://www.pixelatedarcade.com/pictures/logos/2326/Game-of-Thrones-Pinball-Logo.png" group-title="CANALES 24/7",24/7 | Game of Thrones HD
+#EXTINF:-1tvg-id=""tvg-name="24/7|GameofThronesHD"
+tvg-logo="https://www.pixelatedarcade.com/pictures/logos/2326/Game-of-Thrones-Pinball-Lo go.png"group-title="CANALES24/7",24/7|GameofThronesHD
 http://magmas5.com:8000/malotv/gratis/129330
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Fox Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="CANALES 24/7",24/7 | Fox Family
+#EXTINF:-1tvg-id=""tvg-name="24/7|FoxFamily"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28 Latin_America%29_-_2017_Logo.png"group-title="CANALES24/7",24/7|FoxFamily
 http://magmas5.com:8000/malotv/gratis/129331
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Esponja" tv
+#EXTINF:-1tvg-id=""tvg-name="24/7|BobEsponja"
+tvg-logo="https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.pn g"group-title="CANALES24/7",24/7|BobEsponja
+http://magmas5.com:8000/malotv/gratis/129332
+#EXTINF:-1tvg-id=""tvg-name="24/7|CorajeElPerroCobarde"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Courage_the_Cowar dly_Dog_logo.svg/1200px-Courage_the_Cowardly_Dog_logo.svg.png"
+group-title="CANALES24/7",24/7|CorajeElPerro
